@@ -1,6 +1,6 @@
 ## Welcome to My GitHub
 ### Information
-- 👋 Hi, I’m *@MoisesArroyo*, I´m University Student in Instituto Politecnico Nacional, every day i´m lerning for to be a good Engineer.
+- 👋 Hi, I’m *@MoisesArroyo*, I´m an University Student in Instituto Politecnico Nacional, every day i´m lerning for to be a good Engineer.
 - 👀 I’m interested in Science Computer, AI, cybersecurity, Web development, etc.
 - 🌱 I’m currently learning about Computer engineer, cybersecurity and skill about Fullstack developer. 
 - 💞️ I’m looking to collaborate on various software engineering projects in various companies or help businesses implement automation
